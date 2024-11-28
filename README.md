@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Valoris
-- 👀 I’m interested in Python/Javascript/Css
-- 🌱 I’m currently learning Python/Javascript backhend/Css/Html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m at the moment interested in Python/Javascript/Css
+- 🌱 I’m currently in the learning of Python/Javascript backend/(Css/Html)
 - 📫 How to reach me Valoris0303 on Discord
 - 😄 Pronouns: Attack/Helicopter
 - ⚡ Fun fact: Im actually a male
